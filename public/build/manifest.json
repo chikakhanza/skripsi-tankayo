@@ -483,8 +483,8 @@
       "_createLucideIcon-CF7Tu1kG.js"
     ]
   },
-  "_users-9zV0Ekmv.js": {
-    "file": "assets/users-9zV0Ekmv.js",
+  "_users-Be5zH6PI.js": {
+    "file": "assets/users-Be5zH6PI.js",
     "name": "users",
     "imports": [
       "_createLucideIcon-CF7Tu1kG.js"
@@ -508,7 +508,7 @@
     "isEntry": true
   },
   "resources/js/app.tsx": {
-    "file": "assets/app-5AmL7HhW.js",
+    "file": "assets/app-DO2ZBYiT.js",
     "name": "app",
     "src": "resources/js/app.tsx",
     "isEntry": true,
@@ -524,7 +524,7 @@
       "_utils-CYnujMhB.js",
       "_createLucideIcon-CF7Tu1kG.js",
       "_bed-double-BiNNsBl1.js",
-      "_users-9zV0Ekmv.js",
+      "_users-Be5zH6PI.js",
       "_chevron-right-BRlIoHIw.js",
       "_credit-card-aPVsJcU3.js",
       "_dist-BWumRMYV.js",
@@ -549,6 +549,7 @@
       "resources/js/pages/admin/laporan/checkin.tsx",
       "resources/js/pages/admin/laporan/checkout.tsx",
       "resources/js/pages/admin/laporan/kamar.tsx",
+      "resources/js/pages/admin/laporan/ketersedian-kamar.tsx",
       "resources/js/pages/admin/laporan/pendapatan.tsx",
       "resources/js/pages/admin/laporan/reservasi.tsx",
       "resources/js/pages/admin/laporan/tamu.tsx",
@@ -706,7 +707,7 @@
     ]
   },
   "resources/js/pages/admin/dashboard.tsx": {
-    "file": "assets/dashboard-C7LaXHoq.js",
+    "file": "assets/dashboard-Cyaw6HLp.js",
     "name": "dashboard",
     "src": "resources/js/pages/admin/dashboard.tsx",
     "isDynamicEntry": true,
@@ -716,7 +717,7 @@
       "_button-Dnab8Tue.js",
       "_createLucideIcon-CF7Tu1kG.js",
       "_bed-double-BiNNsBl1.js",
-      "_users-9zV0Ekmv.js",
+      "_users-Be5zH6PI.js",
       "_search-C_ovf0fp.js",
       "_label-D-jTpH91.js",
       "_input-CQfQPJVj.js",
@@ -809,6 +810,19 @@
       "_file-down-kwnhmMo4.js",
       "_card-DGe-3Z3z.js",
       "_badge-CGbybUGJ.js"
+    ]
+  },
+  "resources/js/pages/admin/laporan/ketersedian-kamar.tsx": {
+    "file": "assets/ketersedian-kamar-BRrKx7ZC.js",
+    "name": "ketersedian-kamar",
+    "src": "resources/js/pages/admin/laporan/ketersedian-kamar.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-D4s_8jBC.js",
+      "_dist-DE7H812N.js",
+      "_button-Dnab8Tue.js",
+      "_file-down-kwnhmMo4.js",
+      "_card-DGe-3Z3z.js"
     ]
   },
   "resources/js/pages/admin/laporan/pendapatan.tsx": {

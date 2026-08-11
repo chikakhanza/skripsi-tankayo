@@ -7,6 +7,7 @@ import {
     ClipboardList,
     CreditCard,
     LayoutGrid,
+    DoorOpen,
     Tags,
     Users,
     Wallet,
@@ -70,6 +71,7 @@ const getNavItems = (role: string): { group: string; items: NavItem[] }[] => {
             group: 'Laporan',
             items: [
                 { title: 'Laporan Kamar', href: '/laporan/kamar', icon: BedDouble },
+                { title: 'Laporan Ketersediaan Kamar', href: '/laporan/ketersediaan-kamar', icon: DoorOpen },
                 { title: 'Laporan Tamu', href: '/laporan/tamu', icon: Users },
                 { title: 'Laporan Reservasi', href: '/laporan/reservasi', icon: ClipboardList },
                 { title: 'Laporan Check-in', href: '/laporan/checkin', icon: CalendarCheck },
