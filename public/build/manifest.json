@@ -499,7 +499,7 @@
     "name": "wayfinder"
   },
   "resources/css/app.css": {
-    "file": "assets/app-B3MzAA3K.css",
+    "file": "assets/app-Cd9GGvok.css",
     "name": "app",
     "names": [
       "app.css"
@@ -508,7 +508,7 @@
     "isEntry": true
   },
   "resources/js/app.tsx": {
-    "file": "assets/app-DO2ZBYiT.js",
+    "file": "assets/app-BXorJhMD.js",
     "name": "app",
     "src": "resources/js/app.tsx",
     "isEntry": true,
@@ -549,7 +549,7 @@
       "resources/js/pages/admin/laporan/checkin.tsx",
       "resources/js/pages/admin/laporan/checkout.tsx",
       "resources/js/pages/admin/laporan/kamar.tsx",
-      "resources/js/pages/admin/laporan/ketersedian-kamar.tsx",
+      "resources/js/pages/admin/laporan/ketersediaan-kamar.tsx",
       "resources/js/pages/admin/laporan/pendapatan.tsx",
       "resources/js/pages/admin/laporan/reservasi.tsx",
       "resources/js/pages/admin/laporan/tamu.tsx",
@@ -812,10 +812,10 @@
       "_badge-CGbybUGJ.js"
     ]
   },
-  "resources/js/pages/admin/laporan/ketersedian-kamar.tsx": {
-    "file": "assets/ketersedian-kamar-BRrKx7ZC.js",
-    "name": "ketersedian-kamar",
-    "src": "resources/js/pages/admin/laporan/ketersedian-kamar.tsx",
+  "resources/js/pages/admin/laporan/ketersediaan-kamar.tsx": {
+    "file": "assets/ketersediaan-kamar-BRrKx7ZC.js",
+    "name": "ketersediaan-kamar",
+    "src": "resources/js/pages/admin/laporan/ketersediaan-kamar.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_jsx-runtime-D4s_8jBC.js",
@@ -1256,7 +1256,7 @@
     ]
   },
   "resources/js/pages/welcome.tsx": {
-    "file": "assets/welcome-BxPIkAun.js",
+    "file": "assets/welcome-BHglr6Rt.js",
     "name": "welcome",
     "src": "resources/js/pages/welcome.tsx",
     "isDynamicEntry": true,
@@ -1313,7 +1313,7 @@
     ]
   },
   "resources/js/pages/welcome/hero.tsx": {
-    "file": "assets/hero-DO0Ys8mh.js",
+    "file": "assets/hero-CSIV9NOh.js",
     "name": "hero",
     "src": "resources/js/pages/welcome/hero.tsx",
     "isDynamicEntry": true,
@@ -1322,7 +1322,6 @@
       "_dist-DE7H812N.js",
       "_button-Dnab8Tue.js",
       "_arrow-right-Bga4zB8C.js",
-      "_routes-CT9MSOli.js",
       "_gonjong-motif-BqFGpFP7.js",
       "_types-KJj_4nSO.js"
     ],

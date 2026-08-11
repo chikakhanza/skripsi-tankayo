@@ -3,7 +3,6 @@ import { ArrowRight } from 'lucide-react';
 import heroImg from '@/assets/images/hero.webp';
 import { GonjongMotif } from '@/components/gonjong-motif';
 import { Button } from '@/components/ui/button';
-import { login } from '@/routes';
 import { bookingHref, bookingLabel } from './types';
 import type { AuthUser } from './types';
 
@@ -59,16 +58,7 @@ export function Hero({ user }: Props) {
                             <ArrowRight className="ml-2 h-4 w-4" />
                         </Link>
                     </Button>
-                    {!user && (
-                        <Button
-                            asChild
-                            variant="outline"
-                            size="lg"
-                            className="border-white/30 text-white hover:bg-white/15 hover:text-white px-8 text-sm backdrop-blur-sm"
-                        >
-                            <Link href={login()}>Masuk</Link>
-                        </Button>
-                    )}
+                   
                 </div>
             </div>
 
