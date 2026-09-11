@@ -61,10 +61,6 @@ export default function CheckinShow({ checkin }: Props) {
                         </Button>
                         <h1 className="text-2xl font-bold">Invoice Check-in</h1>
                     </div>
-                    <Button variant="outline" onClick={() => window.print()}>
-                        <Printer className="h-4 w-4" />
-                        Cetak
-                    </Button>
                 </div>
 
                 <Card className="print:shadow-none">

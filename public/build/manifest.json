@@ -508,7 +508,7 @@
     "isEntry": true
   },
   "resources/js/app.tsx": {
-    "file": "assets/app-BXorJhMD.js",
+    "file": "assets/app-B9A251XJ.js",
     "name": "app",
     "src": "resources/js/app.tsx",
     "isEntry": true,
@@ -637,7 +637,7 @@
     ]
   },
   "resources/js/pages/admin/checkin/show.tsx": {
-    "file": "assets/show-DwYdhl6a.js",
+    "file": "assets/show-M6yWlTQ6.js",
     "name": "show",
     "src": "resources/js/pages/admin/checkin/show.tsx",
     "isDynamicEntry": true,
@@ -647,7 +647,6 @@
       "_button-Dnab8Tue.js",
       "_utils-CYnujMhB.js",
       "_arrow-left-SDW3U7_M.js",
-      "_printer-BbONSZPP.js",
       "_separator-BKxYmpRP.js",
       "_card-DGe-3Z3z.js",
       "_badge-CGbybUGJ.js"

@@ -246,10 +246,6 @@
                         <td class="kv-label">Tipe Kamar</td>
                         <td>: {{ $reservasi->kamar->tipe->nama_tipe ?? '-' }}</td>
                     </tr>
-                    <tr>
-                        <td class="kv-label">Lama Inap</td>
-                        <td>: {{ $lamaInap }} malam</td>
-                    </tr>
                 </table>
             </td>
         </tr>
